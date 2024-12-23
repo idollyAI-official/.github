@@ -4,17 +4,7 @@
 
 # Idolly AI
 
-[Website](https://idolly.ai/home)
 
-[Twitter](https://twitter.com/idolly_AI)
-
-[Telegram](https://t.me/idollyai_official)
-
-[Discord](https://discord.gg/H3Msa8ZwVJ)
-
-[Instagram](https://www.instagram.com/idolly.ai/)
-
-[Medium](https://medium.com/@idollymarketing)
 
 ---
 
@@ -125,35 +115,35 @@ Idolly AI fosters active user participation with features like **daily missions*
 ---
 
 
-Connect With Us
+### Connect With Us
 
 
 <p align="center">
-  <a href="https://idolly.ai/home">
+  <kbd href="https://idolly.ai/home">
     <img src="https://github.com/user-attachments/assets/58a47e90-1fb1-43df-9959-9a2f4886f1f0" alt="Website" width="60" height="60" style="border-radius: 100%;">
-  </a>
+  </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/idolly_AI">
+  <kbd href="https://twitter.com/idolly_AI">
     <img src="https://github.com/user-attachments/assets/74d12075-c680-41d9-9d99-b4157983c79c" alt="Twitter" width="60" height="60" style="border-radius: 100%;">
-  </a>
+  </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/idollyai_official">
+  <kbd href="https://t.me/idollyai_official">
     <img src="https://github.com/user-attachments/assets/f06f7f40-b23b-4032-9c50-bcf040800135" alt="Telegram" width="60" height="60" style="border-radius: 100%;">
-  </a>
+  </kbd>
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/H3Msa8ZwVJ">
+  <kbd href="https://discord.gg/H3Msa8ZwVJ">
     <img src="https://github.com/user-attachments/assets/203f48ef-2bd1-4472-8a89-dcf82f508f67" alt="Discord" width="60" height="60" style="border-radius: 100%;">
-  </a>
+  </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/idolly.ai/">
+  <kbd href="https://www.instagram.com/idolly.ai/">
     <img src="https://github.com/user-attachments/assets/adb11016-535b-4f47-a949-d59e3cc4fc95" alt="Instagram" width="60" height="60" style="border-radius: 100%;">
-  </a>
+  </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@idollymarketing">
+  <kbd href="https://medium.com/@idollymarketing">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="60" height="60" style="border-radius: 100%;">
-  </a>
+  </kbd>
 </p>
 
 
