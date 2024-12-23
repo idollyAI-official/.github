@@ -5,6 +5,11 @@
 # Idolly AI
 
 
+<a href="https://idolly.ai/home" style="text-decoration: none;">
+    <kbd>
+      <img src="https://github.com/user-attachments/assets/58a47e90-1fb1-43df-9959-9a2f4886f1f0" alt="Website" width="60" height="60" style="border-radius: 50%;">
+    </kbd>
+</a>
 
 ---
 
