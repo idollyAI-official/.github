@@ -4,18 +4,15 @@
 
 # Idolly AI
 
-
 <a href="https://idolly.ai/home" style="text-decoration: none;">
-    <kbd>
-      <img src="https://github.com/user-attachments/assets/58a47e90-1fb1-43df-9959-9a2f4886f1f0" alt="Website" width="60" height="60" style="border-radius: 50%;">
-    </kbd>
+  <kbd>
+    <img src="https://github.com/user-attachments/assets/58a47e90-1fb1-43df-9959-9a2f4886f1f0" alt="Website" width="60" height="60" style="border-radius: 50%;">
+  </kbd>
 </a>
 
 ---
 
 ![Slide 16_9 - 15 (1)](https://github.com/user-attachments/assets/cd6a50b3-2803-4ead-8f0b-a316ed6e2aef)
-
-
 
 ## Create
 
@@ -25,7 +22,7 @@
 ## Earn
 
 - Earn tokens through creative contributions.  
-- Collect and trade exclusive NFTs.
+- Collect, trade, and monetize exclusive cNFTs on Solana.
 
 ## Connect
 
@@ -38,96 +35,112 @@ Idolly AI is an **AI-driven NFT creation and monetization platform** that suppor
 
 ### 🧮 Prompt Calculator
 
-
 ![Slide 16_9 - 6](https://github.com/user-attachments/assets/c2677ac6-92f9-44f5-961c-b335d42c5992)
-Prompt Calculator transforms user inputs into multiple queries, ranks them for the best outcome, and sets NFT rarity-based pricing.
+
+Our Prompt Calculator transforms user inputs into multiple queries, ranks them for optimal results, and dynamically sets rarity-based pricing for NFTs.
 
 ### 🤖 Agent
-Idolly utilizes LangChain and VectorDB to implement advanced RAG and automated agents. Features include prompt assistants, video script generation support agents, and LLM-based retrievers. 
 
-In the future, **we plan to integrate a “Social Idol Agent”,**  
-enabling real-time interactions, dynamic content generation, and virtual influencer-like engagement across various social networks.
+Idolly utilizes LangChain and VectorDB to implement advanced Retrieval-Augmented Generation (RAG) and automated agents. Current features include:
 
+- **Prompt enhancement assistants**  
+- **Video script generation support agents**  
+- **LLM-based retrievers**  
+
+In the future, **we plan to integrate a “Social Idol Agent”** that enables real-time engagement across social networks—think virtual influencers who can host live streams on X (Twitter), generate text-to-video content, and interact with fans in real time.
 
 ---
 
 ### 🛠️ Problem Statement
 
-#### Limited Accessibility in Content Creation
+1. **Traditional AI Generators**  
+   Struggle to reflect detailed user demands; lack robust ownership and revenue structures for creators.
 
-Creating high-quality digital content, like images and videos, demands specialized skills and costly tools. This complexity excludes many potential creators and stifles creativity for those lacking resources or technical expertise.
+2. **High Barrier to Web3 Adoption**  
+   Web2 users and general audiences find it difficult to transition to Web3 platforms.
 
-#### Challenges in Monetization
+3. **High NFT Minting Fees**  
+   Elevated gas fees on popular chains hinder broader participation and experimentation.
 
-Even talented creators face significant hurdles in monetizing their work. Traditional platforms impose high fees, while efficient systems to convert content into financial rewards are scarce, leaving creators undervalued and undercompensated.
-
-#### Ownership and Authenticity Issues
-
-In the digital era, verifying ownership and authenticity is increasingly difficult. Creators often encounter unauthorized use of their work, leading to lost revenue, recognition, and trust in the ecosystem.
-
-#### Low User Engagement and Retention
-
-Existing platforms fail to retain users due to a lack of rewarding and interactive features. Creators and users alike feel disconnected from the creative process and the communities they aspire to build.
+4. **Personalized Influence Gap**  
+   No unified platform allows creators to fully own, customize, and leverage their AI idols or influencer avatars for genuine fan engagement.
 
 ---
 
 ### ⚒️ Solution
 
-#### Democratizing Content Creation
+#### 1. Social & Influencer Agent Platform
 
-Idolly AI removes barriers to creativity with AI-powered tools like **Face Transfer** and **Mood Fusion**, enabling users to effortlessly produce high-quality images and videos. The platform makes content creation accessible to everyone, regardless of skill level.
+- **3D Avatar Creation**  
+  Easily generate and customize your own “AI Idol” with our 3D or face-model avatars.
 
-#### Empowering Monetization
+- **LLM Prompt Enhancement**  
+  We integrate GPT-4 (or Claude-Sonnet-3.5) for automatic script and prompt optimization, ensuring your creative vision is accurately captured.
 
-- **Image-to-Earn (I2E):** Idolly AI revolutionizes monetization by letting users earn tokens through their creations. These tokens can be traded or sold, offering a direct path to financial rewards.  
-- **NFT Integration:** By converting creations into **secure, verifiable NFTs**, creators can establish ownership, gain recognition, and maximize revenue through transparent sales.
+- **Text-to-Video (Planned)**  
+  Soon, users will be able to generate short-form videos with their AI idols using advanced text-to-video models like **Stable Diffusion** or **hunyuan**—perfect for social media clips and livestreaming.
 
-#### Authenticity Through Blockchain
+#### 2. Democratizing Content Creation
 
-Blockchain technology ensures every piece of digital content is **unique, verifiable, and secure**. This protects creators' intellectual property, giving them control while providing buyers with confidence in asset authenticity.
+- **Accessible Tools**  
+  Our intuitive platform lowers the barrier for image and video(soon) creation, making high-quality content achievable for all skill levels.
 
-#### Boosting Engagement with Gamification and Community
+- **Custom Voice & Local LLM** (Roadmap)  
+  Idolly plans to incorporate custom TTS solutions and a locally fine-tuned LLM (e.g., llama-based) for enhanced personalization and censorship-free creativity.
 
-Idolly AI fosters active user participation with features like **daily missions**, **referral programs**, and **rewards**. These elements not only keep users engaged but also cultivate a thriving ecosystem of creators and collectors.  
+#### 3. Empowering Monetization
 
-- **Social Networking Integration:** Upcoming SNS features will enable users to share, collaborate, and connect, building a vibrant community where creativity flourishes.
+- **Image-to-Earn (I2E) & Video-to-Earn (V2E)**  
+  Generate images or videos, mint them as compressed NFTs (cNFTs) on Solana at minimal cost, and earn revenue via direct sales or marketplace trades.
+
+- **NFT Marketplace**  
+  Convert your AI creations into verifiable NFTs. Benefit from transparent fees, secure ownership, and potential royalties in secondary trades.
+
+#### 4. Authenticity Through Blockchain
+
+- **cNFT Implementation**  
+  By leveraging Solana’s Bubblegum protocol, Idolly can handle large-scale minting with minimal gas fees. Every transaction is transparently recorded on-chain.
+
+- **Verified Ownership**  
+  Each piece of content is uniquely minted on Solana, safeguarding your intellectual property and giving buyers trust in authentic, traceable assets.
+
+#### 5. Boosting Engagement with Gamification & Community
+
+- **Daily Missions, Referrals, and Rewards**  
+  Keep users engaged with creative challenges and incentivized participation.
+
+- **Social Network Integration** (Planned)  
+  Share your AI idol’s creations directly to platforms like Twitter (X), Instagram, or TikTok. Future updates will introduce live streaming for real-time fan interactions.
 
 ---
 
 ### 🗺️ Feature Plans or Roadmap
 
 #### **2024 Q3: Foundation Launch**
-
 - Beta Platform Release  
 - Core AI Engine Development  
 - Community Building  
 
 #### **2024 Q4: Blockchain Integration**
-
-- Solana Chain Integration  
-- Wallet Integration  
-- Compressed NFT Implementation  
+- Solana Wallet Integration  
+- Compressed NFT Implementation (cNFT)  
+- Transaction Tracking & On-chain Events  
 
 #### **2025 Q1: NFT Ecosystem**
-
-- NFT Marketplace Launch  
-- Advanced Trading Features 
-- Social Idol Agent
+- Idolly NFT Marketplace Launch  
+- Advanced Trading Features (I2E & V2E)  
+- Launch of AI Idol Trading & Social Idol Agent  
 
 #### **2025 Q2: Platform Evolution**
-
 - Multi-chain Support  
+- Video AI Engine & Text-to-Video Beta  
 - Global Market Expansion  
-- Advanced AI Features  
-- Video AI Engine  
 
 #### **2025 Q4: B2B Expansion**
-
-- SDK Release  
-- Enterprise Partnerships  
+- SDK Release for Enterprises (Gaming, Webtoon, Entertainment)  
+- Enterprise Partnerships & Global Collaborations  
 
 ---
-
 
 ### Connect With Us
 
@@ -170,10 +183,3 @@ Idolly AI fosters active user participation with features like **daily missions*
     </kbd>
   </a>
 </p>
-
-
-
-
-
-
-
