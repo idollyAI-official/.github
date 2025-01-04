@@ -77,8 +77,11 @@ In the future, **we plan to integrate a “Social Idol Agent”** that enables r
 - **LLM Prompt Enhancement**  
   We integrate GPT-4 (or Claude-Sonnet-3.5) for automatic script and prompt optimization, ensuring your creative vision is accurately captured.
 
-- **Text-to-Video (Planned)**  
+- **Text-to-Video (Planned)**   
   Soon, users will be able to generate short-form videos with their AI idols using video models for social media clips and livestreaming.
+
+- **Social Idol Agent (Planned)**  
+  Our upcoming “Social Idol Agent” will let AI idols seamlessly engage in interactions on social media. From X (Twitter) to generating short video content, virtual influencer can truly connect with fans and communities.
 
 #### 2. Democratizing Content Creation
 
