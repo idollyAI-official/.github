@@ -68,6 +68,7 @@ In the future, **we plan to integrate a “Social Idol Agent”** that enables r
 ---
 
 ### ⚒️ Solution
+![Slide 16_9 - 16](https://github.com/user-attachments/assets/9ec4b8d1-c8d4-4421-ada3-e4956449b8f5)
 
 #### 1. Social & Influencer Agent Platform
 
@@ -140,7 +141,7 @@ In the future, **we plan to integrate a “Social Idol Agent”** that enables r
 - Global Market Expansion  
 
 #### **2025 Q4: B2B Expansion**
-- SDK Release for Enterprises (Gaming, Webtoon, Entertainment)  
+- SDK Release
 - Enterprise Partnerships & Global Collaborations  
 
 ---
