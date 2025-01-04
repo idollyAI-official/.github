@@ -78,7 +78,7 @@ In the future, **we plan to integrate a “Social Idol Agent”** that enables r
   We integrate GPT-4 (or Claude-Sonnet-3.5) for automatic script and prompt optimization, ensuring your creative vision is accurately captured.
 
 - **Text-to-Video (Planned)**  
-  Soon, users will be able to generate short-form videos with their AI idols using advanced text-to-video models like **Stable Diffusion** or **hunyuan**—perfect for social media clips and livestreaming.
+  Soon, users will be able to generate short-form videos with their AI idols using video models for social media clips and livestreaming.
 
 #### 2. Democratizing Content Creation
 
