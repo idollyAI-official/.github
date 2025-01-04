@@ -119,6 +119,7 @@ In the future, **we plan to integrate a “Social Idol Agent”** that enables r
 ---
 
 ### 🗺️ Feature Plans or Roadmap
+<img width="705" alt="rm" src="https://github.com/user-attachments/assets/11db32e9-8fde-458b-affd-fbe5059fad40" />
 
 #### **2024 Q3: Foundation Launch**
 - Beta Platform Release  
