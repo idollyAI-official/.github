@@ -40,6 +40,14 @@ Idolly AI is an **AI-driven NFT creation and monetization platform** that suppor
 
 
 ![Slide 16_9 - 6](https://github.com/user-attachments/assets/c2677ac6-92f9-44f5-961c-b335d42c5992)
+Prompt Calculator transforms user inputs into multiple queries, ranks them for the best outcome, and sets NFT rarity-based pricing.
+
+### 🤖 Agent
+Idolly utilizes LangChain and VectorDB to implement advanced RAG and automated agents. Features include prompt assistants, video script generation support agents, and LLM-based retrievers. 
+
+In the future, **we plan to integrate a “Social Idol Agent”,**  
+enabling real-time interactions, dynamic content generation, and virtual influencer-like engagement across various social networks.
+
 
 ---
 
@@ -103,7 +111,8 @@ Idolly AI fosters active user participation with features like **daily missions*
 #### **2025 Q1: NFT Ecosystem**
 
 - NFT Marketplace Launch  
-- Advanced Trading Features  
+- Advanced Trading Features 
+- Social Idol Agent
 
 #### **2025 Q2: Platform Evolution**
 
