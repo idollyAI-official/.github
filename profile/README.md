@@ -14,22 +14,44 @@
 
 ![Slide 16_9 - 15 (1)](https://github.com/user-attachments/assets/cd6a50b3-2803-4ead-8f0b-a316ed6e2aef)
 
-## Create
 
-- Design your personal AI idol and become an influencer.  
-- Generate unique, high-quality images.
+## 🚀 What is Idolly AI?
 
-## Earn
+Idolly AI is an AI-driven influencer creation and monetization platform. Users design personalized AI Idols, grow their influence, and engage with fans through virtual social networks—realizing the innovative concept of Idol-to-Earn.
 
-- Earn tokens through creative contributions.  
-- Collect, trade, and monetize exclusive cNFTs on Solana.
+---
 
-## Connect
+## ✨ Key Features
 
-- Share your creations and prompts with the community.  
-- Join a thriving ecosystem of creators and collectors.
+### Create
 
-Idolly AI is an **AI-driven NFT creation and monetization platform** that supports a digital world where every individual can freely express their creativity, own their work, and transform it into value.
+- Design your personalized AI Idol with fully customizable personas, appearance, style, and backgrounds.
+
+- Generate unique, high-quality images and content effortlessly.
+
+### Earn (Idol-to-Earn)
+
+- Monetize your AI Idol through activities like content creation, NFT trading, and platform engagement.
+
+- Earn tokens ($DOLLIZ) and rewards through daily missions, XP, and level-ups.
+
+### Connect
+
+- Engage directly with your AI Idol through personalized chats, role-play, and dynamic interactions.
+
+- Share content on virtual SNS, grow your fandom, and enhance your AI Idol's influence.
+
+---
+
+## 🕸️ Idol Brain (Orchestrator)
+
+Idol Brain coordinates your AI Idol's activities using advanced AI orchestration:
+
+- Post & Chat Agents: Automate content creation aligned with your idol’s persona.
+
+- User Memory: Delivers personalized, context-aware interactions.
+
+- Role-Play: Engage in interactive scenarios based on unique idol backstories.
 
 ---
 
