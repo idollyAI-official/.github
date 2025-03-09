@@ -68,121 +68,55 @@ Idol Brain coordinates your AI Idol's activities using advanced AI orchestration
 
 ---
 
+## 🔗 Blockchain Integration (Powered by Solana)
+
+### Compressed NFT (cNFT)
+- Mint your AI Idol and creations efficiently, with low transaction costs.
+
+### Verified Ownership & Transparency
+- All creations and transactions securely recorded on-chain.
+
+---
+## 🛠️ Technical Strength
 ### 🧮 Prompt Calculator
 
 ![Slide 16_9 - 6](https://github.com/user-attachments/assets/c2677ac6-92f9-44f5-961c-b335d42c5992)
 
-Our Prompt Calculator transforms user inputs into multiple queries, ranks them for optimal results, and dynamically sets rarity-based pricing for NFTs.
+- Translates prompts into optimized, rarity-based NFT pricing.
 
 ### 🤖 Agent
 
-Idolly utilizes LangChain and VectorDB to implement advanced Retrieval-Augmented Generation (RAG) and automated agents. Current features include:
+- Utilizes LangChain, LangGraph and VectorDB to implement RAG and automated agents.
 
-- **Prompt enhancement assistants**  
-- **Video script generation support agents**  
-- **LLM-based retrievers**  
-
-In the future, **we plan to integrate a “Social Idol Agent”** that enables real-time engagement across social networks—think virtual influencers who can host live streams on X (Twitter), generate text-to-video content, and interact with fans in real time.
 
 ---
-
-### 🛠️ Problem Statement
-
-1. **Traditional AI Generators**  
-   Struggle to reflect detailed user demands; lack robust ownership and revenue structures for creators.
-
-2. **High Barrier to Web3 Adoption**  
-   Web2 users and general audiences find it difficult to transition to Web3 platforms.
-
-3. **High NFT Minting Fees**  
-   Elevated gas fees on popular chains hinder broader participation and experimentation.
-
-4. **Personalized Influence Gap**  
-   No unified platform allows creators to fully own, customize, and leverage their AI idols or influencer avatars for genuine fan engagement.
-
----
-
-### ⚒️ Solution
-![Slide 16_9 - 16](https://github.com/user-attachments/assets/9ec4b8d1-c8d4-4421-ada3-e4956449b8f5)
-
-#### 1. Social & Influencer Agent Platform
-
-- **3D Avatar Creation**  
-  Easily generate and customize your own “AI Idol” with our 3D or face-model avatars.
-
-- **LLM Prompt Enhancement**  
-  We integrate GPT-4 (or Claude-Sonnet-3.5) for automatic script and prompt optimization, ensuring your creative vision is accurately captured.
-
-- **Text-to-Video (Planned)**   
-  Soon, users will be able to generate short-form videos with their AI idols using video models for social media clips and livestreaming.
-
-- **Social Idol Agent (Planned)**  
-  Our upcoming “Social Idol Agent” will let AI idols seamlessly engage in interactions on social media. From X (Twitter) to generating short video content, virtual influencer can truly connect with fans and communities.
-
-#### 2. Democratizing Content Creation
-
-- **Accessible Tools**  
-  Our intuitive platform lowers the barrier for image and video(soon) creation, making high-quality content achievable for all skill levels.
-
-- **Custom Voice & Local LLM** (Roadmap)  
-  Idolly plans to incorporate custom TTS solutions and a locally fine-tuned LLM (e.g., llama-based) for enhanced personalization and censorship-free creativity.
-
-#### 3. Empowering Monetization
-
-- **Image-to-Earn (I2E) & Video-to-Earn (V2E)**  
-  Generate images or videos, mint them as compressed NFTs (cNFTs) on Solana at minimal cost, and earn revenue via direct sales or marketplace trades.
-
-- **NFT Marketplace**  
-  Convert your AI creations into verifiable NFTs. Benefit from transparent fees, secure ownership, and potential royalties in secondary trades.
-
-#### 4. Authenticity Through Blockchain
-
-- **cNFT Implementation**  
-  By leveraging Solana’s Bubblegum protocol, Idolly can handle large-scale minting with minimal gas fees. Every transaction is transparently recorded on-chain.
-
-- **Verified Ownership**  
-  Each piece of content is uniquely minted on Solana, safeguarding your intellectual property and giving buyers trust in authentic, traceable assets.
-
-#### 5. Boosting Engagement with Gamification & Community
-
-- **Daily Missions, Referrals, and Rewards**  
-  Keep users engaged with creative challenges and incentivized participation.
-
-- **Social Network Integration** (Planned)  
-  Share your AI idol’s creations directly to platforms like Twitter (X), Instagram, or TikTok. Future updates will introduce live streaming for real-time fan interactions.
 
 ---
 
 ### 🗺️ Feature Plans or Roadmap
 <img width="705" alt="rm" src="https://github.com/user-attachments/assets/11db32e9-8fde-458b-affd-fbe5059fad40" />
 
-#### **2024 Q3: Foundation Launch**
-- Beta Platform Release  
-- Core AI Engine Development  
-- Community Building  
-
 #### **2024 Q4: Blockchain Integration**
 - Solana Wallet Integration  
 - Compressed NFT Implementation (cNFT)  
 - Transaction Tracking & On-chain Events  
 
-#### **2025 Q1: NFT Ecosystem**
-- Idolly NFT Marketplace Launch  
+#### **2025 Q1: Idol-to-Earn Launch**
 - Advanced Trading Features (I2E & V2E)  
-- Launch of AI Idol Trading & Social Idol Agent  
+- Launch of AI Idol Trading & Social Idol Agent
+- Multi-chain Support  
 
 #### **2025 Q2: Platform Evolution**
-- Multi-chain Support  
-- Video AI Engine & Text-to-Video Beta  
+- Idolly NFT Marketplace Launch  
+- Video AI Engine
 - Global Market Expansion  
 
-#### **2025 Q4: B2B Expansion**
-- SDK Release
-- Enterprise Partnerships & Global Collaborations  
+#### **2025 Q4: SDK & Enterprise Solutions**
+
 
 ---
 
-### Connect With Us
+## 🤝 Join Our Community
 
 <p align="center">
   <a href="https://idolly.ai/home" style="text-decoration: none;">
@@ -223,3 +157,6 @@ In the future, **we plan to integrate a “Social Idol Agent”** that enables r
     </kbd>
   </a>
 </p>
+
+<br><br>
+### 🌟 Create Your AI Idol, Build Influence, and Earn with Idolly AI! 🌟
