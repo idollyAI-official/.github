@@ -47,11 +47,24 @@ Idolly AI is an AI-driven influencer creation and monetization platform. Users d
 
 Idol Brain coordinates your AI Idol's activities using advanced AI orchestration:
 
-- Post & Chat Agents: Automate content creation aligned with your idol’s persona.
+### Post & Chat Agents
+- Automate content creation aligned with your idol’s persona.
 
-- User Memory: Delivers personalized, context-aware interactions.
+### User Memory
+- Delivers personalized, context-aware interactions.
 
-- Role-Play: Engage in interactive scenarios based on unique idol backstories.
+### Role-Play (Coming soon)
+- Engage in interactive scenarios based on unique idol backstories.
+
+---
+
+## 🎲 Gamified Experience
+
+### Daily Missions & Leaderboards
+- Complete daily missions and compete in rankings to boost your Idol’s reputation and get $DOLL points
+
+### Level & XP System (Coming soon)
+- Level up your AI Idol, unlocking exclusive rewards, content, and special abilities.
 
 ---
 
