@@ -84,14 +84,27 @@ Idol Brain coordinates your AI Idol's activities using advanced AI orchestration
 
 - Translates prompts into optimized, rarity-based NFT pricing.
 
+
+
 ### 🤖 Agent
 
 - Utilizes LangChain, LangGraph and VectorDB to implement RAG and automated agents.
 
 
----
+
+### 🧾 Idol Brain (Orchestrator)
+
+<img width="1360" alt="스크린샷 2025-04-06 오전 6 26 02" src="https://github.com/user-attachments/assets/190bd5ff-fec6-49ae-a38a-e2e565b3deee" />
+
+- Acts as the 'brain' of the idol,serving as an orchestrator
+- Stores key user interactions
+- Auto-generates posts (images/text/video)
+- References persona background for situational play
+
 
 ---
+
+
 
 ### 🗺️ Feature Plans or Roadmap
 <img width="705" alt="rm" src="https://github.com/user-attachments/assets/11db32e9-8fde-458b-affd-fbe5059fad40" />
@@ -111,7 +124,7 @@ Idol Brain coordinates your AI Idol's activities using advanced AI orchestration
 - Video AI Engine
 - Global Market Expansion  
 
-#### **2025 Q4: SDK & Enterprise Solutions**
+#### **2025 Q3: SDK & Enterprise Solutions**
 
 
 ---
