@@ -89,8 +89,6 @@ Idol Brain coordinates your AI Idol's activities using advanced AI orchestration
 ## 🛠️ Technical Strength
 ### 🧮 Prompt Calculator
 
-![Slide 16_9 - 6](https://github.com/user-attachments/assets/c2677ac6-92f9-44f5-961c-b335d42c5992)
-
 - Translates prompts into optimized, rarity-based NFT pricing.
 
 
