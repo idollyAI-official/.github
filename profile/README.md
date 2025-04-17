@@ -45,8 +45,8 @@ Idolly AI is an AI-driven influencer creation and monetization platform. Users d
 ## 🎨 Styler (New Feature)
 ![11P](https://github.com/user-attachments/assets/14faa888-44d2-4096-9e3f-42fa6fe32343)
 
-Idolly Styler allows users to upload their own images and transform them into beautifully stylized artworks, such as Ghibli, Pixel Art, Makoto Shinkai, and more.
-NSFW OK: Users can freely experiment with styles
+- Idolly Styler allows users to upload their own images and transform them into beautifully stylized artworks, such as Ghibli, Pixel Art, Makoto Shinkai, and more.
+- NSFW OK: No more 'I'm sorry i can't assist with ...', Users can freely experiment with styler.
 ---
 
 ## 🕸️ Idol Brain (Orchestrator)
