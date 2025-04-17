@@ -42,6 +42,12 @@ Idolly AI is an AI-driven influencer creation and monetization platform. Users d
 - Share content on virtual SNS, grow your fandom, and enhance your AI Idol's influence.
 
 ---
+## 🎨 Styler (New Feature)
+![11P](https://github.com/user-attachments/assets/14faa888-44d2-4096-9e3f-42fa6fe32343)
+
+Idolly Styler allows users to upload their own images and transform them into beautifully stylized artworks, such as Ghibli, Pixel Art, Makoto Shinkai, and more.
+NSFW OK: Users can freely experiment with styles
+---
 
 ## 🕸️ Idol Brain (Orchestrator)
 
@@ -68,7 +74,10 @@ Idol Brain coordinates your AI Idol's activities using advanced AI orchestration
 
 ---
 
-## 🔗 Blockchain Integration (Powered by Solana)
+## 🔗 Blockchain Integration
+
+### BASE Chain Integration
+- Now supports NFT minting on BASE chain, enabling cross-chain ready functionality for broader Web3 accessibility.
 
 ### Compressed NFT (cNFT)
 - Mint your AI Idol and creations efficiently, with low transaction costs.
